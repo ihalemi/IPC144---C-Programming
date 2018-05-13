@@ -1,0 +1,21 @@
+Name: Ilias Halemi
+Student ID: 062111133
+Email: ihalemi@myseneca.ca
+
+1. The most intresting part of all this is how inticate and sophisticated the C programming language is, and how logic, functions, pointers etc. work together to create programs that accomplish many tasks and functions.
+
+2. I think the quizzes were hard since we had study without a proper lecture but the quizes did bring up new topics and the lecture after the quiz helped solidify these ideas further.
+
+3. I like that there is a hands-on workshop every week so that the whole course isn't only theory but also hands-on skills that you can use in the workforce as well.
+
+4. I disliked that the quizes were before the lecture but I loved the dedication of the proffessor to be available 24/7 to aid with any inquiries or problems student might run into.
+
+5. I think the addition of lab assistants during workshop would be very helpful since the proffessor cannot help everyone during the lab class.
+
+6. I think my level of understanding was pretty good most of the course but might of gone down to adequate during some difficult topics.
+
+7. I enjoyed the workshops since they provide a real life sceanario of a workplace where you have a project and it must be done in time to get paid and maintain your current position.
+
+8. I think the content was a little too much since it is the first programming course for non-programmers and most of ideas are new but this is to be expected honestly.
+
+9. I think the lab helped a little on how you should adjust your thinking to a logical and methodical way of thinking.

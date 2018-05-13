@@ -1,0 +1,9 @@
+Name : Ilias Halemi
+Email: ihalemi@myseneca.ca
+ID: 062111133
+
+1. When a parameter is passed by address the main(caller) and the function(callee) use the same variable for the parameter. If the function modifies this variable the effect of this is visible to the main and its vairbale. On the other hand, when a parameter is passed by value the function and the main have two independent variables and if the function modifies this parameter vairbale then the effect is not visible to the main. Furthermore, passing by address make use of pointers to store vairbale address while passing by value use regular variable to store values rather than memory address.
+ 
+2. Functions with array parameters are usually accompanied with an int parameter because we need to include the int parameter which represents the size of the array being passed to the function. A good example in this workshop is how we used the array, structure struct Book book [], along with the size of the array, int size.
+
+3. Some of the functions in Workshop 8 specifiy a const array rather than regular array parameter because the const is used as a safekeeping method so that the function does not change any element of the array when the array is being passed into the function. 

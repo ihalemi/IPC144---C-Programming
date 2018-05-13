@@ -1,0 +1,9 @@
+Name: Ilias Halemi
+Student ID: 062111133
+Email: ihalemi@myseneca.ca
+
+1. The possible return values of the readRecord function is from 0 and above. Basically as long you keep adding books then the number of records increase and as a result the return value of readRecord alteers accordingly. The readRecord function reads the number of individual book records in the inventory text file and returns the number of records found. The function seperates each record like so 234562;23.99;2010;3;Harry Potter and then returns the number of records found.
+
+2. Opening a file in the "r" connection mode means that you can only read from a file. While using the "w" connection means that you can write to a file if it exists and at the same time truncate contents but if the file doesn't exits then it will create a new file and then write to it. On the other hand the "a+" mode means that you can write to the file and append at the same time if the file exists but if it doesn't then it will just create a new file and just write to it since there is no content to append to.
+
+3. When reading from a file you are storing your input in secondary storage which means that this info will be saved when the computer is turned off and all of this data can be accesses later by this same program. On the other hand reading data from user input is not stored in secondary storage therefore all of the data entered will not be saved when you exit the program or turn off your computer since it doesn't utilize secondary storage.

@@ -1,0 +1,11 @@
+Name: Ilias Halemi
+Student ID: 062111133
+Email: ihalemi@myseneca.ca
+
+1. The only difference between a C-style string and an array of characters is that a string is accompanied by a null character \0 at the end.
+
+2. The format we should use to make sure the number of input characters do not exceed 10 is the format specifier "%10s". This will make sure that the number of input character entered do not exceed 10.
+
+3. It will return 0 when matched since it will return positive if the matched character is higher than the same character in second string and negative if the first string is lower than the second string.
+
+4. You will need to allocate exactly 7 bytes of memory, since the lenght of the sentence is 6 plus the null pointer making it 7.

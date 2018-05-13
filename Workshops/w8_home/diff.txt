@@ -1,0 +1,10 @@
+
+In line number 77 of your output:
+The output should be:
+The book exists in the repository, quantity is updated.
+But your output is: 
+The book exists in the repository, quantity updated.
+                                            ^
+--------------------------------------------|
+Professor's character ASCII code: hex(69), dec(105)
+un-matched character ASCII code: hex(75), dec(117)
