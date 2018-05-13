@@ -1,0 +1,10 @@
+
+In line number 201 of your output:
+The output should be:
+        SKU: 649
+But your output is: 
+Quantity is low, please reorder ASAP!!!
+^
+|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(51), dec(81)

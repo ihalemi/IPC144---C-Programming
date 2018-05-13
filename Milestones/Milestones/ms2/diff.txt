@@ -1,0 +1,10 @@
+
+In line number 95 of your output:
+The output should be:
+                                           Grand Total: |     3479.16
+But your output is: 
+                                           Grand Total: |         3479.16
+                                                              ^
+--------------------------------------------------------------|
+Professor's character ASCII code: hex(33), dec(51)
+un-matched character ASCII code: hex(20), dec(32)
