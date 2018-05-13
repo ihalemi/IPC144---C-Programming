@@ -1,0 +1,10 @@
+Name: Ilias Halemi	
+Student ID:062111133
+Email: ihalemi@myseneca.ca
+
+
+1) There are many iteration constructs in the C programming language, some of these include the 'for' statemnt, the 'while' statement, and the 'do-while' statement. Each of these iteration constructs vary but they all have a condition in common and depending on whether that condition is true the iteration will either break or execute a specified statement. 
+
+2) The difference between a while statement and a do while statement is when the condition gets evaluated. In a do while statement the condition is not evaluared until the loop ends. Therefore, in a do while statement the loop will run at least once but in a while loop the condition is evaluated at the begining.
+
+3) A conditional expression means that there is a condition to be met before anything is executed. In interations like the for, while or while do loops there are conditional expressions and the program will check the conditions set before executing the coresponding statement. If the condition is false then the program will bounce out of the loop.  

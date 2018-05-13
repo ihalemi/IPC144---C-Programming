@@ -1,0 +1,11 @@
+Name: Ilias Halemi
+Student ID: 062111133
+Email: ihalemi@myseneca.ca
+
+1. I think the most important thing I learned in this lab is to use proper datatypes depending on the program. Moreover, I learned that you can't use modulus with floats or doubles but with only integers. 
+
+2. You must add .005 to the value when calculating GST because numbers will be improperly rounded or truncated when you run it on matrix therefore you must add the .005 for your value to be properly rounded.
+
+3. Casting is used when you declare a variable an interger for example but you want it to act like a float for one specific operation. It was useful for this for this lab since we wanted to use integers to use modulus but at the same time convert it back to float for the printf statement.
+
+4. I think we were required to use modulus in this lab to show us that some datatypes like floats and doubles dont't work with modulus and that you must covert these values into an integer whole number for the modulus function to work properly. 

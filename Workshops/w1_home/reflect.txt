@@ -1,0 +1,10 @@
+
+Name: Ilias Halemi
+Student ID: 062111133
+Email: ihalemi@myseneca.ca
+
+
+
+While creating my first C program I have learned that you always must include the standard input and output librbary with #include <stdio.h>. Moreover, I have learned that after each C statment in the C language you must end with a semi-colon to let the program now that this is the end. Also I learned that the return 0 functions as a termination to tell system that the program is finished. Furthemore, I have learned to tranfer files from my laptop to matrix with WinSCP and Putty.
+
+

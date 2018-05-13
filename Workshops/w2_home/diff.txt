@@ -1,0 +1,10 @@
+
+In line number 6 of your output:
+The output should be:
+Loonies required: 9, balance owing $0.81
+But your output is: 
+Loonies required: 9, balance owing $0.81 
+                                        ^
+----------------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(20), dec(32)
